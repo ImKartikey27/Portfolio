@@ -29,9 +29,9 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
+  { value: 15, suffix: "+", label: "Completed Projects" },
+  { value: 250, suffix: "+", label: "Problems Solved" },
+  { value: 2, suffix: "+", label: "Months of Experience" },
   { value: 90, suffix: "%", label: "Client Retention Rate" },
 ];
 
@@ -74,18 +74,18 @@ const logoIconsList = [
 const abilities = [
   {
     imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    title: "System Reliability",
+    desc: "Designing and deploying systems with high uptime, optimized backend logic, and production-grade performance.",
   },
   {
     imgPath: "/images/chat.png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    title: "Transparent Collaboration",
+    desc: "Communicating progress clearly across teams to ensure alignment, accountability, and shared ownership.",
   },
   {
     imgPath: "/images/time.png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    title: "Efficient Execution",
+    desc: "Delivering scalable features and integrations under tight timelines without compromising quality.",
   },
 ];
 
