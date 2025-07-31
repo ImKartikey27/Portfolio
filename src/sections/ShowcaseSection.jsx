@@ -39,7 +39,7 @@ const ShowcaseSection = () => {
                 {/* Left Side */}
                 <div className='first-project-wrapper' ref={project1Ref}>
                     <div className='image-wrapper'>
-                        <img src="/images/project1.png" alt="crmint" />
+                        <img src="/images/crmint.png" alt="crmint" />
                     </div>
                     <div className='text-content'>
                         <h2>AI-Powered CRM for Campaigns & Customer Insights</h2>
@@ -51,14 +51,14 @@ const ShowcaseSection = () => {
                 {/* Right Side */}
                 <div className='project-list-wrapper overflow-hidden'>
                     <div className='project' ref={project2Ref}>
-                        <div className='image-wrapper bg-[#ffefdb]'>
-                            <img src='/images/project2.png' alt='Time2Hire'/>
+                        <div className='image-wrapper bg-[#3c3a3b] '>
+                            <img src='/images/Time2Hire.png' alt='Time2Hire'/>
                         </div>
                         <h2>AI-Automated Interview Scheduling Service</h2>
                     </div>
                     <div className='project' ref={project3Ref}>
-                        <div className='image-wrapper bg-[#ffe7eb]'>
-                            <img src='/images/project3.png' alt='Time2Qualify'/>
+                        <div className='image-wrapper bg-[#3c3a3b]'>
+                            <img src='/images/Time2Qualify.png' alt='Time2Qualify'/>
                         </div>
                         <h2>AI-Powered Assessment Recommendation Engine</h2>
                     </div>

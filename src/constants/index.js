@@ -13,7 +13,7 @@ const navLinks = [
   },
   {
     name: "Resume",
-    link: "https://drive.google.com/file/d/1ff_jaLA7tRrnWUldqeY_4qXwophI9MXS/view?usp=share_link",
+    link: "https://drive.google.com/file/d/1L8Dz3GQqps54OYhPGz1ueY8fkHsLzNNP/view?usp=share_link",
   },
 ];
 
@@ -91,25 +91,27 @@ const abilities = [
 
 const techStackImgs = [
   {
+    name: "Backend Developer",
+    imgPath: "/images/logos/node.png",
+  },
+  {
+    name: "NextJs Developer",
+    imgPath: "/images/logos/nextjs.png",
+  },
+  {
     name: "React Developer",
     imgPath: "/images/logos/react.png",
   },
+  
   {
-    name: "Python Developer",
-    imgPath: "/images/logos/python.svg",
-  },
-  {
-    name: "Backend Developer",
-    imgPath: "/images/logos/node.png",
+    name: "Project Manager",
+    imgPath: "/images/logos/git.svg",
   },
   {
     name: "Interactive Developer",
     imgPath: "/images/logos/three.png",
   },
-  {
-    name: "Project Manager",
-    imgPath: "/images/logos/git.svg",
-  },
+  ,
 ];
 
 const techStackIcons = [
@@ -147,41 +149,17 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    review: "Kartikey brought technical skill and a robust development approach to our team, significantly automating our in-game item shop. His work has been invaluable in delivering a seamless and reliable purchasing experience for our players.",
+    imgPath: "/images/logos/nextjs.png",
+    logoPath: "/images/logos/react.png",
+    title: "Full-Stack Developer",
+    date: "June 2024 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
-    ],
-  },
-  {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
-    responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
-    ],
-  },
-  {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
-    responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
-    ],
-  },
+    "Building a Minecraft SMP item shop for real-time purchase of coins, ranks, and crates with in-game delivery.",
+    "Integrating Tebex for secure, game-native payment processing and automated reward fulfillment.",
+    "Developing a Node.js backend with webhook handling and deploying on a Virtual Machine to ensure seamless web-to-game integration."
+  ]
+  }
 ];
 
 const expLogos = [
