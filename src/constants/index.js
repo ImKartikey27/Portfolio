@@ -153,7 +153,7 @@ const expCards = [
     imgPath: "/images/logos/nextjs.png",
     logoPath: "/images/ladder.jpeg",
     title: "Full-Stack Engineer",
-    date: "August 2025 - Present",
+    date: "September 2025 - Present",
     responsibilities: [
       "Delivered full-stack web applications for multiple clients, ensuring scalable architecture and seamless user experiences.",
       "Built lead generation engines with automated workflows, increasing client acquisition efficiency by 40%.",
