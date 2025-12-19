@@ -149,16 +149,40 @@ const techStackIcons = [
 
 const expCards = [
   {
+    review: "Kartikey consistently delivers high-quality full-stack solutions with exceptional attention to client requirements. His work on lead generation engines and client projects has been instrumental in driving business growth and automation.",
+    imgPath: "/images/logos/nextjs.png",
+    logoPath: "/images/ladder.jpeg",
+    title: "Full-Stack Engineer",
+    date: "August 2025 - Present",
+    responsibilities: [
+      "Delivered full-stack web applications for multiple clients, ensuring scalable architecture and seamless user experiences.",
+      "Built lead generation engines with automated workflows, increasing client acquisition efficiency by 40%.",
+      "Collaborated with cross-functional teams to define requirements, implement features, and deploy production-ready solutions."
+    ]
+  },
+  {
+    review: "Kartikey played a pivotal role in our early-stage development, building both our frontend and backend infrastructure from the ground up. His design contributions and technical expertise helped shape our AI-powered legal platform into a production-ready solution.",
+    imgPath: "/images/logos/nextjs.png",
+    logoPath: "/images/jurixAi.jpeg",
+    title: "Full-Stack Developer",
+    date: "March 2024 - August 2025",
+    responsibilities: [
+      "Architected and developed the complete frontend and backend for an AI-powered legal research platform from inception.",
+      "Collaborated closely with founders to design user flows, wireframes, and UI/UX patterns for an early-stage startup.",
+      "Integrated AI models and legal data APIs to provide intelligent case law search and document analysis features."
+    ]
+  },
+  {
     review: "Kartikey brought technical skill and a robust development approach to our team, significantly automating our in-game item shop. His work has been invaluable in delivering a seamless and reliable purchasing experience for our players.",
     imgPath: "/images/logos/nextjs.png",
-    logoPath: "/images/logos/react.png",
+    logoPath: "/images/minecraft.png",
     title: "Full-Stack Developer",
-    date: "June 2024 - Present",
+    date: "Feb 2024 - March 2024",
     responsibilities: [
-    "Building a Minecraft SMP item shop for real-time purchase of coins, ranks, and crates with in-game delivery.",
-    "Integrating Tebex for secure, game-native payment processing and automated reward fulfillment.",
-    "Developing a Node.js backend with webhook handling and deploying on a Virtual Machine to ensure seamless web-to-game integration."
-  ]
+      "Built a Minecraft SMP item shop for real-time purchase of coins, ranks, and crates with in-game delivery.",
+      "Integrated Tebex for secure, game-native payment processing and automated reward fulfillment.",
+      "Developed a Node.js backend with webhook handling and deployed on a Virtual Machine to ensure seamless web-to-game integration."
+    ]
   }
 ];
 
